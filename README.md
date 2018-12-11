@@ -318,7 +318,7 @@ Add **Open Source Society University** to your [Linkedin](https://www.linkedin.c
 ## References
 
 # extras
-- [Books](/extras/books)
-- [Projects](/projects)
-- [Courses](/extras/courses)
-- [Specializations](/extras/specializations)
+- [Books](/extras/books.md)
+- [Projects](/PROJECTS.md)
+- [Courses](/extras/courses.md)
+- [Specializations](/extras/specializations.md)
