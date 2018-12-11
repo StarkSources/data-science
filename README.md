@@ -27,6 +27,7 @@
 - [Next Goals](#next-goals)
 - [Team](#team)
 - [References](#references)
+- [Extras](#extras)
 
 ## About
 
@@ -315,3 +316,9 @@ Add **Open Source Society University** to your [Linkedin](https://www.linkedin.c
 * **Contributors**: [contributors](https://github.com/open-source-society/data-science/graphs/contributors)
 
 ## References
+
+# extras
+- [Books](/extras/books)
+- [Projects](/projects)
+- [Courses](/extras/courses)
+- [Specializations](/extras/specializations)
